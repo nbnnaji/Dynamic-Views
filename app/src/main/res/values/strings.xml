@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AndroidUI</string>
+    <string name="first_name">Name: </string>
+    <string name="last_name">Last Name </string>
+    <string name="profession">Profession</string>
+    <string name="years_of_experience">Experience</string>
+    <string name="areas_0f_expertise">Software skills</string>
+    <string name="first_name_entry_hint">Enter first name here</string>
+    <string name="last_name_entry_hint">Enter last name here</string>
+    <string name="experience_entry_hint">Enter experience here</string>
+    <string name="software_skills__entry_hint">Enter software skills here</string>
+    <string name="job_description_entry_hint">Enter job description here</string>
+    <string name="award_entry_hint">Enter awards name here</string>
+    <string name="profession_entry_hint">Enter profession here</string>
+    <string name="job_description">Enter your current job description, stating clearly how this is relevant to you application.</string>
+    <string name="award_description">State award(s) received and what roles you played leading to obtaining such award(s).</string>
+</resources>
